@@ -185,6 +185,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   bootsnap
@@ -204,4 +205,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   2.0.1
+   2.2.0
